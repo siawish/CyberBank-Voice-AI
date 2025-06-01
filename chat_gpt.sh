@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Store your Google Gemini API Key
-GEMINI_API_KEY="AIzaSyAfnzW5GyaZeHVnF3pyrUrxXOWlScOZqz8"
+GEMINI_API_KEY="Write Your Key Here"
 
 # Check if jq is installed
 if ! command -v jq &> /dev/null; then
